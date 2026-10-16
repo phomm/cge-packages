@@ -1,0 +1,8 @@
+{
+  "title": "UI Shaker",
+  "description": "A child of TCastleUserInterface that shakes all its children when asked to.",
+  "image": "ui-shaker.gif",
+  "page": "https://gitlab.com/EugeneLoza/ui-shaker",
+  "author": "Eugene Loza",
+  "links": []
+}

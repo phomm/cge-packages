@@ -1,0 +1,25 @@
+name: Combine JSON Files
+on:
+  push:
+    paths:
+      - 'data/*.json' # Triggers only when your source JSONs change
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Merge JSONs using jq
+        run: |
+          # Each file in data represents one package.
+          jq -s '{packages: .}' data/*.json > unified.json
+
+      - name: Commit and Push Unified JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add unified.json
+          git commit -m "chore: auto-update unified.json [skip ci]" || exit 0
+          git push

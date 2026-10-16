@@ -1,0 +1,17 @@
+{
+  "title": "cge-2d-particle-emitter",
+  "description": "2D particle system using \"71 Squared\" format (.pex files). Particles are calculated on CPU or with GPU acceleration (transform feedback).\nThis is deprecated now in favor of cge-3d-particle-emitter.",
+  "image": "cge_2d_particles.png",
+  "page": "https://github.com/Kagamma/cge-2d-particle-emitter",
+  "author": "Trung Le (Kagamma)",
+  "links": [
+    {
+      "name": "cge-3d-particle-emitter",
+      "url": "https://github.com/Kagamma/cge-3d-particle-emitter"
+    },
+    {
+      "name": "forum thread",
+      "url": "https://forum.castle-engine.io/t/cge-2d-particle-emitter-now-supports-gpu-based-particle/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Particle Emitter",
+  "description": "Particle system for 3D and 2D that supports editing right inside CGE editor. Particles are calculated with GPU acceleration (transform feedback).",
+  "image": "cge_3d_particles_editor.png",
+  "page": "https://github.com/Kagamma/cge-3d-particle-emitter",
+  "author": "Trung Le (Kagamma)",
+  "links": [
+    {
+      "name": "forum thread",
+      "url": "https://forum.castle-engine.io/t/3d-particle-system/"
+    },
+    {
+      "name": "forum thread",
+      "url": "https://forum.castle-engine.io/t/3d-particle-system-now-with-full-support-for-2d-and-castle-editor/"
+    },
+    {
+      "name": "news post",
+      "url": "https://castle-engine.io/wp/2021/08/20/particle-system-updates-with-editing-integrated-inside-cge-editor-and-improvements-to-building-editor-with-custom-components/"
+    }
+  ]
+}

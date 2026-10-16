@@ -1,0 +1,12 @@
+{
+  "title": "Database aware CGE UI",
+  "description": "Implementation of database-aware TCastleDBEdit component.",
+  "image": "database_aware.png",
+  "page": "https://github.com/castle-engine/castle-db-aware-controls",
+  "links": [
+    {
+      "name": "news post",
+      "url": "https://castle-engine.io/wp/2018/12/24/database-aware-demo-using-castle-game-engine-ui/"
+    }
+  ]
+}

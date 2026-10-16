@@ -1,0 +1,17 @@
+{
+  "title": "Icosphere",
+  "description": "Create icosphere (alternative way to triangulate a sphere, that doesn't have poles).",
+  "image": "ico_sphere.png",
+  "page": "https://github.com/xistext/edjlib/blob/main/icosphere.pas",
+  "author": "Erik Johnson",
+  "links": [
+    {
+      "name": "forum thread",
+      "url": "https://forum.castle-engine.io/t/building-icospheres-in-x3d/1153/"
+    },
+    {
+      "name": "GitHub repository with more goodies, like behavior trees",
+      "url": "https://github.com/xistext/edjlib"
+    }
+  ]
+}

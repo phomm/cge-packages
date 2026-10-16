@@ -1,0 +1,8 @@
+{
+  "title": "Typing Label",
+  "description": "A label (child of TCastleLabel) that supports \"typing effect\" on the text (text apppears gradually, one letter at a time). Allows skipping and restarting typing. Supports HTML rich text.",
+  "image": "typing-label.gif",
+  "page": "https://gitlab.com/EugeneLoza/typing-label",
+  "author": "Eugene Loza",
+  "links": []
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Effekseer Integration",
+  "description": "Integration with Effekseer, a full-featured open-source particle effect creation tool.",
+  "image": "cge_effekseer.png",
+  "page": "https://github.com/Kagamma/cge-effekseer",
+  "author": "Trung Le (Kagamma)",
+  "links": [
+    {
+      "name": "Effekseer",
+      "url": "https://effekseer.github.io/en/"
+    },
+    {
+      "name": "news post",
+      "url": "https://castle-engine.io/wp/2021/08/22/effekseer-particle-effect-creation-and-runtime-integration/"
+    }
+  ]
+}

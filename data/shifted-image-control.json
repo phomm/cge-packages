@@ -1,0 +1,13 @@
+{
+  "title": "Shifted Image Control",
+  "description": "TCastleShiftedImageControl that can render cropped images with a shift. Also comes with two utilities:\n\n- ShiftedConvert - crops transparent parts of the image and converts it into a shifted image, that is rendered by TCastleShiftedImageControl.\n- AlphaBleeder - slower but more \"beautiful\" version of TCastleImage.AlphaBleed\n\nThis may come in handy when rendering multiple images that should be aligned properly to each other but have large unused transparent areas (e.g. different exported layers from InkScape). Should boost RAM/VRAM usage and performance a bit.",
+  "image": "shifted_image.png",
+  "page": "https://gitlab.com/EugeneLoza/shifted-image-control",
+  "author": "Eugene Loza",
+  "links": [
+    {
+      "name": "manual",
+      "url": "https://castle-engine.io/apidoc/html/CastleImages.TCastleImage.html#AlphaBleed-string-"
+    }
+  ]
+}

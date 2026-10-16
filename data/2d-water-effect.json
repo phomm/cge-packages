@@ -1,0 +1,13 @@
+{
+  "title": "2D water effect",
+  "description": "A beautiful water for 2D games. The water is represented as a volume that you can easily move and scale around. It supports reflection and refraction.",
+  "image": "cge_2d_water.png",
+  "page": "https://github.com/Kagamma/cge-2d-water-effect",
+  "author": "Trung Le (Kagamma)",
+  "links": [
+    {
+      "name": "news post",
+      "url": "https://castle-engine.io/wp/2021/08/21/water-effect-ready-to-use-in-2d-games-like-a-platformer-demo/"
+    }
+  ]
+}

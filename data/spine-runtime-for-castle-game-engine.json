@@ -1,0 +1,13 @@
+{
+  "title": "Spine Runtime for Castle Game Engine",
+  "description": "Render Spine models using official Spine runtime, that supports more Spine features than built-in CGE support.",
+  "image": "component_spine_runtime.png",
+  "page": "https://github.com/Kagamma/spine-runtimes",
+  "author": "Trung Le (Kagamma)",
+  "links": [
+    {
+      "name": "Spine",
+      "url": "https://esotericsoftware.com/"
+    }
+  ]
+}
