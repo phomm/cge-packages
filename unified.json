@@ -56,6 +56,7 @@
       "description": "Implementation of database-aware TCastleDBEdit component.",
       "image": "database_aware.png",
       "page": "https://github.com/castle-engine/castle-db-aware-controls",
+      "author": "Michalis Kamburelis",
       "links": [
         {
           "name": "news post",
