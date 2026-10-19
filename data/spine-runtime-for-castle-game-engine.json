@@ -1,4 +1,5 @@
 {
+  "id": "spine-runtimes",
   "title": "Spine Runtime for Castle Game Engine",
   "description": "Render Spine models using official Spine runtime, that supports more Spine features than built-in CGE support.",
   "image": "component_spine_runtime.png",

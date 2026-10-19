@@ -1,4 +1,5 @@
 {
+  "id": "cge-3d-particle-emitter",
   "title": "Particle Emitter",
   "description": "Particle system for 3D and 2D that supports editing right inside CGE editor. Particles are calculated with GPU acceleration (transform feedback).",
   "image": "cge_3d_particles_editor.png",

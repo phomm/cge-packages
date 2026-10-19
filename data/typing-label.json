@@ -1,4 +1,5 @@
 {
+  "id": "typing-label",
   "title": "Typing Label",
   "description": "A label (child of TCastleLabel) that supports \"typing effect\" on the text (text apppears gradually, one letter at a time). Allows skipping and restarting typing. Supports HTML rich text.",
   "image": "typing-label.gif",

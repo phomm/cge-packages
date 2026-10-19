@@ -1,4 +1,5 @@
 {
+  "id": "ui-shaker",
   "title": "UI Shaker",
   "description": "A child of TCastleUserInterface that shakes all its children when asked to.",
   "image": "ui-shaker.gif",

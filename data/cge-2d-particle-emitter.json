@@ -1,4 +1,5 @@
 {
+  "id": "cge-2d-particle-emitter",
   "title": "cge-2d-particle-emitter",
   "description": "2D particle system using \"71 Squared\" format (.pex files). Particles are calculated on CPU or with GPU acceleration (transform feedback).\nThis is deprecated now in favor of cge-3d-particle-emitter.",
   "image": "cge_2d_particles.png",

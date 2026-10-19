@@ -1,4 +1,5 @@
 {
+  "id": "cge-effekseer",
   "title": "Effekseer Integration",
   "description": "Integration with Effekseer, a full-featured open-source particle effect creation tool.",
   "image": "cge_effekseer.png",

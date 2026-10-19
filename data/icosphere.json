@@ -1,5 +1,6 @@
 {
-  "title": "Icosphere",
+  "title": "xistext-Icosphere",
+  "id": "edjlib",
   "description": "Create icosphere (alternative way to triangulate a sphere, that doesn't have poles).",
   "image": "ico_sphere.png",
   "page": "https://github.com/xistext/edjlib/blob/main/icosphere.pas",

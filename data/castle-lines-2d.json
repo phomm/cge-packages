@@ -1,4 +1,5 @@
 {
+  "id": "CastleLines2D",
   "title": "Castle Lines 2D",
   "description": "Draw 2D geometry inside CGE editor",
   "image": "component_castlelines2d.png",

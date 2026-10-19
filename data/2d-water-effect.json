@@ -1,4 +1,5 @@
 {
+  "id": "cge-2d-water-effect",
   "title": "2D water effect",
   "description": "A beautiful water for 2D games. The water is represented as a volume that you can easily move and scale around. It supports reflection and refraction.",
   "image": "cge_2d_water.png",
