@@ -1,6 +1,7 @@
 {
   "packages": [
     {
+      "id": "cge-2d-water-effect",
       "title": "2D water effect",
       "description": "A beautiful water for 2D games. The water is represented as a volume that you can easily move and scale around. It supports reflection and refraction.",
       "image": "cge_2d_water.png",
@@ -14,6 +15,7 @@
       ]
     },
     {
+      "id": "castle-bars",
       "title": "Castle Bars",
       "description": "Several basic bars (horizontal, vertical and circular progressbars) and sliders (horizontal, vertical and continuous, discrete).",
       "image": "castle_bars.gif",
@@ -22,6 +24,7 @@
       "links": []
     },
     {
+      "id": "CastleLines2D",
       "title": "Castle Lines 2D",
       "description": "Draw 2D geometry inside CGE editor",
       "image": "component_castlelines2d.png",
@@ -35,6 +38,7 @@
       ]
     },
     {
+      "id": "cge-2d-particle-emitter",
       "title": "cge-2d-particle-emitter",
       "description": "2D particle system using \"71 Squared\" format (.pex files). Particles are calculated on CPU or with GPU acceleration (transform feedback).\nThis is deprecated now in favor of cge-3d-particle-emitter.",
       "image": "cge_2d_particles.png",
@@ -52,6 +56,7 @@
       ]
     },
     {
+      "id": "castle-db-aware-controls",
       "title": "Database aware CGE UI",
       "description": "Implementation of database-aware TCastleDBEdit component.",
       "image": "database_aware.png",
@@ -65,6 +70,7 @@
       ]
     },
     {
+      "id": "cge-effekseer",
       "title": "Effekseer Integration",
       "description": "Integration with Effekseer, a full-featured open-source particle effect creation tool.",
       "image": "cge_effekseer.png",
@@ -82,7 +88,8 @@
       ]
     },
     {
-      "title": "Icosphere",
+      "title": "xistext-Icosphere",
+      "id": "edjlib",
       "description": "Create icosphere (alternative way to triangulate a sphere, that doesn't have poles).",
       "image": "ico_sphere.png",
       "page": "https://github.com/xistext/edjlib/blob/main/icosphere.pas",
@@ -99,6 +106,7 @@
       ]
     },
     {
+      "id": "cge-3d-particle-emitter",
       "title": "Particle Emitter",
       "description": "Particle system for 3D and 2D that supports editing right inside CGE editor. Particles are calculated with GPU acceleration (transform feedback).",
       "image": "cge_3d_particles_editor.png",
@@ -120,6 +128,7 @@
       ]
     },
     {
+      "id": "shifted-image-control",
       "title": "Shifted Image Control",
       "description": "TCastleShiftedImageControl that can render cropped images with a shift. Also comes with two utilities:\n\n- ShiftedConvert - crops transparent parts of the image and converts it into a shifted image, that is rendered by TCastleShiftedImageControl.\n- AlphaBleeder - slower but more \"beautiful\" version of TCastleImage.AlphaBleed\n\nThis may come in handy when rendering multiple images that should be aligned properly to each other but have large unused transparent areas (e.g. different exported layers from InkScape). Should boost RAM/VRAM usage and performance a bit.",
       "image": "shifted_image.png",
@@ -133,6 +142,7 @@
       ]
     },
     {
+      "id": "spine-runtimes",
       "title": "Spine Runtime for Castle Game Engine",
       "description": "Render Spine models using official Spine runtime, that supports more Spine features than built-in CGE support.",
       "image": "component_spine_runtime.png",
@@ -146,6 +156,7 @@
       ]
     },
     {
+      "id": "typing-label",
       "title": "Typing Label",
       "description": "A label (child of TCastleLabel) that supports \"typing effect\" on the text (text apppears gradually, one letter at a time). Allows skipping and restarting typing. Supports HTML rich text.",
       "image": "typing-label.gif",
@@ -154,6 +165,7 @@
       "links": []
     },
     {
+      "id": "ui-shaker",
       "title": "UI Shaker",
       "description": "A child of TCastleUserInterface that shakes all its children when asked to.",
       "image": "ui-shaker.gif",
