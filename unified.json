@@ -12,6 +12,13 @@
           "name": "news post",
           "url": "https://castle-engine.io/wp/2021/08/21/water-effect-ready-to-use-in-2d-games-like-a-platformer-demo/"
         }
+      ],
+      "features": [
+        "copy-code",
+        "copy-data",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
       ]
     },
     {
@@ -21,7 +28,13 @@
       "image": "castle_bars.gif",
       "page": "https://gitlab.com/EugeneLoza/castle-bars",
       "author": "Eugene Loza",
-      "links": []
+      "links": [],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
+      ]
     },
     {
       "id": "CastleLines2D",
@@ -35,6 +48,12 @@
           "name": "news post",
           "url": "https://castle-engine.io/wp/2023/01/13/draw-2d-geometry-inside-cge-editor-using-castle-lines-2d-components/"
         }
+      ],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
       ]
     },
     {
@@ -53,6 +72,12 @@
           "name": "forum thread",
           "url": "https://forum.castle-engine.io/t/cge-2d-particle-emitter-now-supports-gpu-based-particle/"
         }
+      ],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
       ]
     },
     {
@@ -67,6 +92,12 @@
           "name": "news post",
           "url": "https://castle-engine.io/wp/2018/12/24/database-aware-demo-using-castle-game-engine-ui/"
         }
+      ],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
       ]
     },
     {
@@ -85,6 +116,12 @@
           "name": "news post",
           "url": "https://castle-engine.io/wp/2021/08/22/effekseer-particle-effect-creation-and-runtime-integration/"
         }
+      ],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
       ]
     },
     {
@@ -103,6 +140,9 @@
           "name": "GitHub repository with more goodies, like behavior trees",
           "url": "https://github.com/xistext/edjlib"
         }
+      ],
+      "features": [
+        "copy-code"
       ]
     },
     {
@@ -125,6 +165,12 @@
           "name": "news post",
           "url": "https://castle-engine.io/wp/2021/08/20/particle-system-updates-with-editing-integrated-inside-cge-editor-and-improvements-to-building-editor-with-custom-components/"
         }
+      ],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
       ]
     },
     {
@@ -139,6 +185,13 @@
           "name": "manual",
           "url": "https://castle-engine.io/apidoc/html/CastleImages.TCastleImage.html#AlphaBleed-string-"
         }
+      ],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "skip-tool",
+        "register-editor",
+        "git-submodule"
       ]
     },
     {
@@ -153,6 +206,12 @@
           "name": "Spine",
           "url": "https://esotericsoftware.com/"
         }
+      ],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
       ]
     },
     {
@@ -162,7 +221,13 @@
       "image": "typing-label.gif",
       "page": "https://gitlab.com/EugeneLoza/typing-label",
       "author": "Eugene Loza",
-      "links": []
+      "links": [],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
+      ]
     },
     {
       "id": "ui-shaker",
@@ -171,7 +236,13 @@
       "image": "ui-shaker.gif",
       "page": "https://gitlab.com/EugeneLoza/ui-shaker",
       "author": "Eugene Loza",
-      "links": []
+      "links": [],
+      "features": [
+        "copy-code",
+        "skip-test",
+        "register-editor",
+        "git-submodule"
+      ]
     }
   ]
 }
