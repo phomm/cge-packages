@@ -14,5 +14,11 @@
       "name": "forum thread",
       "url": "https://forum.castle-engine.io/t/cge-2d-particle-emitter-now-supports-gpu-based-particle/"
     }
+  ],
+  "features": [
+    "copy-code",
+    "skip-test",
+    "register-editor",
+    "git-submodule"
   ]
 }

@@ -10,5 +10,11 @@
       "name": "Spine",
       "url": "https://esotericsoftware.com/"
     }
+  ],
+  "features": [
+    "copy-code",
+    "skip-test",
+    "register-editor",
+    "git-submodule"
   ]
 }

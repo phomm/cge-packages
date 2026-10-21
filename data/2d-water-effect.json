@@ -10,5 +10,12 @@
       "name": "news post",
       "url": "https://castle-engine.io/wp/2021/08/21/water-effect-ready-to-use-in-2d-games-like-a-platformer-demo/"
     }
+  ],
+  "features": [
+    "copy-code",
+    "copy-data",
+    "skip-test",
+    "register-editor",
+    "git-submodule"
   ]
 }

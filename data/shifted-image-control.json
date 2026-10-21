@@ -10,5 +10,12 @@
       "name": "manual",
       "url": "https://castle-engine.io/apidoc/html/CastleImages.TCastleImage.html#AlphaBleed-string-"
     }
+  ],
+  "features": [
+    "copy-code",
+    "skip-test",
+    "skip-tool",
+    "register-editor",
+    "git-submodule"
   ]
 }

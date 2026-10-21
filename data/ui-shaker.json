@@ -5,5 +5,11 @@
   "image": "ui-shaker.gif",
   "page": "https://gitlab.com/EugeneLoza/ui-shaker",
   "author": "Eugene Loza",
-  "links": []
+  "links": [],
+  "features": [
+    "copy-code",
+    "skip-test",
+    "register-editor",
+    "git-submodule"
+  ]
 }

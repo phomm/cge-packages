@@ -14,5 +14,8 @@
       "name": "GitHub repository with more goodies, like behavior trees",
       "url": "https://github.com/xistext/edjlib"
     }
+  ],
+  "features": [
+    "copy-code"    
   ]
 }

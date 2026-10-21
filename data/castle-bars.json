@@ -5,5 +5,11 @@
   "image": "castle_bars.gif",
   "page": "https://gitlab.com/EugeneLoza/castle-bars",
   "author": "Eugene Loza",
-  "links": []
+  "links": [],
+  "features": [
+    "copy-code",
+    "skip-test",
+    "register-editor",
+    "git-submodule"
+  ]
 }

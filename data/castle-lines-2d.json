@@ -10,5 +10,11 @@
       "name": "news post",
       "url": "https://castle-engine.io/wp/2023/01/13/draw-2d-geometry-inside-cge-editor-using-castle-lines-2d-components/"
     }
+  ],
+  "features": [
+    "copy-code",
+    "skip-test",
+    "register-editor",
+    "git-submodule"
   ]
 }

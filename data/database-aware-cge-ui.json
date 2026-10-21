@@ -10,5 +10,11 @@
       "name": "news post",
       "url": "https://castle-engine.io/wp/2018/12/24/database-aware-demo-using-castle-game-engine-ui/"
     }
+  ],
+  "features": [
+    "copy-code",
+    "skip-test",
+    "register-editor",
+    "git-submodule"
   ]
 }

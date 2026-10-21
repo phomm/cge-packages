@@ -5,5 +5,11 @@
   "image": "typing-label.gif",
   "page": "https://gitlab.com/EugeneLoza/typing-label",
   "author": "Eugene Loza",
-  "links": []
+  "links": [],
+  "features": [
+    "copy-code",
+    "skip-test",
+    "register-editor",
+    "git-submodule"
+  ]
 }
